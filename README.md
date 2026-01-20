@@ -1,16 +1,28 @@
-## Hi there 👋
+## 👋 About me
+Data / Product Analyst with a strong ML & engineering background.  
+I build end-to-end data-driven products: from data pipelines and experiments
+to ML models, dashboards and AI-powered systems.  
+Focused on metrics, experimentation and production-ready solutions.
 
-<!--
-**safffka/safffka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Core Tech Stack
+<p align="left">
+  <!-- Core language & data -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
 
-Here are some ideas to get you started:
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clickhouse/clickhouse-original.svg" width="40"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- ML / AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40"/>
+
+  <!-- Engineering -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+</p>
+
+**ML / AI:** CatBoost, AutoGluon, YOLO, LLM, RAG  
+**Analytics:** Product analytics, funnels, cohorts, A/B testing  
+**BI:** Power BI, Tableau  
+**Data:** ClickHouse, PostgreSQL
