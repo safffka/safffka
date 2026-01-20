@@ -26,3 +26,6 @@ Focused on metrics, experimentation and production-ready solutions.
 **Analytics:** Product analytics, funnels, cohorts, A/B testing  
 **BI:** Power BI, Tableau  
 **Data:** ClickHouse, PostgreSQL
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=safffka&show_icons=true&hide_title=true&hide_rank=true)
+
