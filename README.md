@@ -29,6 +29,6 @@ Focused on metrics, experimentation and production-ready solutions.
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=safffka&show_icons=true&hide_title=true&hide_rank=true)
 ## 🐍 Contributions
-![snake animation](https://raw.githubusercontent.com/ТВОЙ_USERNAME/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/safffka/github-contribution-grid-snake/output/github-contribution-grid-snake.svg)
 
 
